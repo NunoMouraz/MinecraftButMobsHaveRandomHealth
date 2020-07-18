@@ -1,0 +1,4 @@
+name: MinecraftButMobsHaveRandomHealth
+version: ${project.version}
+main: pinoco.com.minecraftbutmobshaverandomhealth.Main
+api-version: 1.16
